@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tex-quotes-Mandarine2312.dir/main.cpp.o  -o tex-quotes-Mandarine2312 
